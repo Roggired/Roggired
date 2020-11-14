@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
   Log4j2.  
     
   C#, Unity3D.  
-- :see_no_evil: I hade interships as QA-manual-engineer, Frontend developer, Fullstack developer in small companies.  
+- :see_no_evil: I had interships as QA-manual-engineer, Frontend developer, Fullstack developer in small companies.  
   But I'm not really familar with Frontend technologies and don't want to become Frontend developer.  
   :smile: I wanna be Backend developer.  
   :heart: But I will always dream of gamedev.
