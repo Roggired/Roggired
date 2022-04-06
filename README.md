@@ -5,16 +5,24 @@
 
 Here are some ideas to get you started:-->
 
-- :pencil: I’m currently learning Java.
+- :pencil: I’m Junior Java\Kotlin Backend Developer
 - :fire: I've made some things with:  
-  Java 8, Swing, JavaFX;  
-  Spring, Java EE;  
-  Tomcat, Wildfly;  
-  Hibernate, PostgreSQL;  
-  JUnit 5, Mockito;   
-  Team City;  
-  Gradle;  
-  Log4j2.  
+  Java 8, 11, 17, Swing, JavaFX;  
+  Spring, Jakarta EE;  
+  
+  plain JDBC, Criteria API, Hibernate, PostgreSQL, Liquibase;  
+  Redis;  
+  Quartz;  
+  Minio;  
+  
+  JUnit 5, Mockito;     
+  Gradle, Maven;  
+  Docker.  
+  
+  JSF (Primefaces), Thymeleaf.  
 
+- My experience:  
+  1 year in ITMO Laboratory of Internet of Things (backend tasks on Java)  
+  2 years as a teacher assistant at Department of Software Engeneering (ITMO University)  
+  2 months as Full-stack Junior Developer in Tune-It (Saint-Petersburg)
 - :point_right: How to reach me: @cup_of_code on Telegram or leshaego14@gmail.com
-- :sunglasses: Fun fact - still don't meet COVID-19
