@@ -24,7 +24,7 @@ Here are some ideas to get you started:-->
   JSF (Primefaces), Thymeleaf.  
 
 - My experience:  
-  1 year in ITMO Laboratory of Internet of Things (backend tasks on Java)  
-  2 years as a teacher assistant at Department of Software Engeneering (ITMO University)  
-  2 months as Full-stack Junior Developer in Tune-It (Saint-Petersburg)
+  1.5 year in ITMO Laboratory of Internet of Things (backend tasks on Java)  
+  2.5 years as a teacher assistant at Department of Software Engeneering (ITMO University)  
+  7 months as a Full-stack Junior Developer in Tune-It (Saint-Petersburg)
 - :point_right: How to reach me: @cup_of_code on Telegram or leshaego14@gmail.com
