@@ -7,24 +7,25 @@
 
 Here are some ideas to get you started:-->
 
-- :pencil: I’m Junior Java\Kotlin Backend Developer
+- :pencil: I’m Java\Kotlin Backend Developer  
 - :fire: I've made some things with:  
-  Java 8, 11, 17, Swing, JavaFX;  
+  Java 8, 11, 17;  
   Spring, Jakarta EE;  
   
-  plain JDBC, Criteria API, Hibernate, PostgreSQL, Liquibase;  
-  Redis;  
-  Quartz;  
-  Minio;  
+  have used different databases, object storages, in-memory storages, etc.
   
-  JUnit 5, Mockito;     
-  Gradle, Maven;  
-  Docker.  
-  
-  JSF (Primefaces), Thymeleaf.  
+  of course, have written tests :)
 
+  for building projects - have used Gradle and Maven
+
+  for creating local developer environment - have used Docker  
+
+  I also used a little -  React, Typescript, JSF, Thymeleaf. And Python for some very special tasks.
+  
 - My experience:  
-  1.5 year in ITMO Laboratory of Internet of Things (backend tasks on Java)  
-  2.5 years as a teacher assistant at Department of Software Engeneering (ITMO University)  
-  7 months as a Full-stack Junior Developer in Tune-It (Saint-Petersburg)
+  1.5 year in ITMO Laboratory of Internet of Things (backend tasks on Java);  
+  3.5 years as a teacher at Department of Software Engeneering (ITMO University);  
+  1 years as a Software developer in Tune-IT (Saint-Petersburg);  
+  6 months as a Lead software developer also in Tune-IT;
+  
 - :point_right: How to reach me: @cup_of_code on Telegram or leshaego14@gmail.com
